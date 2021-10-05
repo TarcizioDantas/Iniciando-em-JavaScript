@@ -1,7 +1,7 @@
 var lista = ["maçã","pêra","laranja"];
 //lista.push("uva");
 //lista.pop();
-console.log(lista.length);
+console.log(lista.reverse());
 
 
 /*var nome = "Tarcizio Dantas"
