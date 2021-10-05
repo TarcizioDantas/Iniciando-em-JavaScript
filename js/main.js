@@ -1,1 +1,2 @@
-alert("Meu primeiro javaScript!");
+var nome = "Tarcizio Dantas"
+alert("Bem Vindo! "+ nome);
