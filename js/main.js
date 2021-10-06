@@ -1,4 +1,11 @@
 
+
+var count;
+for(count=0; count<=5; count++){
+    alert(count);
+};
+
+/*
 var count = 0;
 while(count <= 5){
     console.log(count);
@@ -7,7 +14,6 @@ while(count <= 5){
 };
 
 
-/*
 var idade = prompt("QUAL A SUA IDADE?");
 if(idade >= 18){
     alert("Vc é maior de idade!");
