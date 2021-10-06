@@ -1,12 +1,15 @@
-var idade = 18;
-if(idade >= 18){
-    alert("Vc é maior de idade!")
-}else{
-    alert("Vc é menor de idade!")
-}
+
 
 
 /*
+var idade = prompt("QUAL A SUA IDADE?");
+if(idade >= 18){
+    alert("Vc é maior de idade!");
+}else{
+    alert("Vc é menor de idade!");
+};
+
+
 var frutas = [{nome:"maça", cor:"vermelha"}, {nome:"uva", cor:"roxa"}]
 console.log(frutas);
 alert(frutas[1].nome);
