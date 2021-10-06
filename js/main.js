@@ -1,8 +1,9 @@
 var lista = ["maçã","pêra","laranja"];
 //lista.push("uva");
 //lista.pop();
-console.log(lista);
-console.log(lista.toString());
+console.log(lista[0]);
+console.log(lista.toString()[0]);
+console.log(lista.join(" - "));
 
 
 /*var nome = "Tarcizio Dantas"
