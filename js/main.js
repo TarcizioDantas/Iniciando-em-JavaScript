@@ -1,8 +1,17 @@
+var idade = 18;
+if(idade >= 18){
+    alert("Vc é maior de idade!")
+}else{
+    alert("Vc é menor de idade!")
+}
+
+
+/*
 var frutas = [{nome:"maça", cor:"vermelha"}, {nome:"uva", cor:"roxa"}]
 console.log(frutas);
 alert(frutas[1].nome);
 
-/*
+
 var fruta = {nome:"maça", cor:"vermelha"}
 console.log(fruta.nome);
 alert(fruta.cor);
