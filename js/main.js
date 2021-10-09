@@ -1,3 +1,12 @@
+
+
+function clicou(){
+    alert("Obrigado por clicar!");
+}
+
+
+/*
+
 function soma(n1, n2){
     return n1 + n2;
 }
@@ -16,7 +25,7 @@ var idade = prompt("Qaul a sua iadade?");
 validaIdade(idade);
 console.log(validar);
 
-/*
+
 alert(soma(5, 10));
 alert(setReplace("Vai japão", "japão", "Brasil"));
 
@@ -57,7 +66,7 @@ alert(frutas[1].nome);
 var fruta = {nome:"maça", cor:"vermelha"}
 console.log(fruta.nome);
 alert(fruta.cor);
-*/
+
 
 //var lista = ["maçã","pêra","laranja"];
 //lista.push("uva");
@@ -67,7 +76,7 @@ alert(fruta.cor);
 //console.log(lista.join(" - "));
 
 
-/*var nome = "Tarcizio Dantas"
+var nome = "Tarcizio Dantas"
 var n1 = 20;
 var n2 = 30;
 var frase = "Japão é o melhor time do mundo";
@@ -76,4 +85,6 @@ alert(idade + idade2);
 console.log(nome);
 console.log(n1 * n2);
 console.log(frase.toLowerCase());
-alert(frase.replace("Japão","Brasil"));*/
+alert(frase.replace("Japão","Brasil"));
+
+*/
