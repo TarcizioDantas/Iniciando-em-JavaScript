@@ -1,9 +1,12 @@
+
+
+/*
 var d = new Date();
 alert(d.getDay);
 alert(d.getHours);
 alert(d.getMinutes);
 
-/*
+
 var count;
 for(count=0; count<=5; count++){
     alert(count);
